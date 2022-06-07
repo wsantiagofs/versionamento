@@ -1,0 +1,3 @@
+print("voce ta cadastradoo\nparabens!!")
+
+#Arquivo criado por Andre Dal Negro.
